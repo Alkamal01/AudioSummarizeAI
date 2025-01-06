@@ -35,7 +35,7 @@ def save_uploaded_file(uploaded_file):
         return None
 
 # Streamlit app interface
-st.title('Audio Summarization App')
+st.title('AudioSummarizeAI')
 
 with st.expander("About this app"):
     st.write("""
