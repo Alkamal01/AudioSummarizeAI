@@ -57,7 +57,7 @@ st.markdown(
     """
     <hr>
     <div style="text-align: center;">
-        <p>Built with ❤️ by <strong>Kamal Aliyu</strong></p>
+        <p>Built with ❤️ by <strong>kaftandev🥷</strong></p>
         <a href="https://github.com/Alkamal01" target="_blank">
             <img src="https://img.icons8.com/material-outlined/24/github.png" alt="GitHub">
         </a>
